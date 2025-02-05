@@ -13,3 +13,6 @@ Expressão1 = 10<9 or 9<10
 Expressão2 = 10<9 and 9<10
 print (f'{Expressão1}')
 print (f'{Expressão2}')
+
+
+print('charbel' + '21' + '63')
